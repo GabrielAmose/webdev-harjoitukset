@@ -1,0 +1,51 @@
+.logo-rectangle {
+    width: 20%;
+    padding: 2px;
+    background-color: #10696e;
+    text-align: center;
+}
+
+.upper-rectangle {
+    display: flex;
+    padding: 0px;
+    
+    background: #2c8c91;
+    text-align: right;
+}
+
+.center_items {
+    align-items: center;
+}
+
+body {
+    background-color: white;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    color: black;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    padding: 0px 350px;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
