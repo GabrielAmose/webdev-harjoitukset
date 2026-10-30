@@ -5,6 +5,10 @@
     text-align: center;
 }
 
+div.logo-rectangle img {
+    margin: 16px;
+}
+
 .upper-rectangle {
     display: flex;
     padding: 0px;
@@ -13,8 +17,61 @@
     text-align: right;
 }
 
+.btn {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.button {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: none;
+    color: black;
+    text-align: right;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    align-items: center;
+}
+
+button.button a {
+    text-decoration: none;
+    color: black;
+}
+
+.button_color {
+    background-color: #28898e;
+    border-radius: 10px;
+
+}
+
+.button_color:hover {
+    background-color: #b0d4cc;
+    box-shadow: 6px 0px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
 .center_items {
     align-items: center;
+}
+
+.product_rectangle {
+    display: flex;
+    flex-direction: column;
+    background: #2c8c91;
+    margin: 20px;
+    height: 550px;
+    border-radius: 50px;
+    box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.ptext {
+    padding: 0px 100px;
 }
 
 body {
@@ -47,5 +104,14 @@ h3 {
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
+}
+
+.contacth3 {
+    text-align: left;
+    margin: 0px
+}
+
+.contactimg {
+    
 }
 
