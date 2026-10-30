@@ -1,5 +1,16 @@
+* {
+    color: black;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+
 .logo-rectangle {
-    width: 20%;
+    width: fit-content;
     padding: 2px;
     background-color: #10696e;
     text-align: center;
@@ -11,16 +22,30 @@ div.logo-rectangle img {
 
 .upper-rectangle {
     display: flex;
+    justify-content: space-between;
     padding: 0px;
-    
     background: #2c8c91;
     text-align: right;
+}
+
+.center_items {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.crop_image {
+    width: 1200px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 50px;
 }
 
 .btn {
     display: flex;
     text-align: center;
     align-items: center;
+    gap: 40px;
 }
 
 .button {
@@ -29,89 +54,69 @@ div.logo-rectangle img {
     border: none;
     color: black;
     text-align: right;
-    padding: 15px 32px;
+    padding: 30px 50px;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
     transition-duration: 0.3s;
     align-items: center;
+    background-color: #28898e;
+    border-radius: 10px;
 }
 
-button.button a {
+div.btn a {
     text-decoration: none;
+    font-size: large;
+    font-weight: 600;
     color: black;
 }
 
-.button_color {
-    background-color: #28898e;
-    border-radius: 10px;
 
-}
-
-.button_color:hover {
+.button:hover {
     background-color: #b0d4cc;
     box-shadow: 6px 0px 8px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
 
-.center_items {
+.row_items {
     align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 130px;
 }
+
+div.row_items b {
+    font-weight: 700;
+}
+
 
 .product_rectangle {
     display: flex;
     flex-direction: column;
     background: #2c8c91;
-    margin: 20px;
-    height: 550px;
+    height: fit-content;
+    margin-bottom: 70px;
     border-radius: 50px;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2);
 
 }
 
-.ptext {
-    padding: 0px 100px;
+div.product_rectangle h2 {
+    margin-bottom: 30px;
 }
 
 body {
-    background-color: white;
+    background-color: lightcyan;
     margin: 0px;
 }
 
 h1 {
     text-align: center;
-    color: black;
-    font-family: "Comfortaa", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 700;
-    font-style: normal;
 }
 
-h2 {
-    color: black;
-    font-family: "Comfortaa", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
+.h2text {
+    margin: 20px 150px
 }
-
-h3 {
-    color: black;
-    text-align: center;
-    padding: 0px 350px;
-    font-family: "Comfortaa", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-}
-
-.contacth3 {
-    text-align: left;
-    margin: 0px
-}
-
-.contactimg {
-    
-}
-
