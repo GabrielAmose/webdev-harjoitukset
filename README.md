@@ -1,7 +1,9 @@
 # Ohjelmisto 2, webdev-harjoitukset
 
 ## HTML+CSS
-[Tehtävä 1 Yrityksen verkkosivusto HTML:llä ja CSS:llä: Tehty]()
+[Linkki Tehtävä 1 Yrityksen verkkosivusto HTML:llä ja CSS:llä users.metropolia.fi-palvelussa](https://users.metropolia.fi/~gabrieam/Teht%c3%a4v%c3%a41-HTML+CSS/index.html)
+
+[Linkki Testit sivustostani](https://users.metropolia.fi/~gabrieam/html-testit/testit.html)
 
 ---
 
@@ -10,7 +12,8 @@
 ### JS-moduulit 1 ja 2
 
 [Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~gabrieam/JS-Moduulit/Moduuli%201/)
-[Ja tässä on JS-moduuli 2](https://users.metropolia.fi/~gabrieam/JS-Moduulit/Moduuli%202/)
+
+[Linkki JS-moduulin 2 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~gabrieam/JS-Moduulit/Moduuli%202/)
 
 Tehdyt tehtävät:
 
