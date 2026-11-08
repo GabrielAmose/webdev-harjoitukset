@@ -9,7 +9,8 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]()
+[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~gabrieam/JS-Moduulit/Moduuli%201/)
+[Ja tässä on JS-moduuli 2](https://users.metropolia.fi/~gabrieam/JS-Moduulit/Moduuli%202/)
 
 Tehdyt tehtävät:
 
@@ -30,7 +31,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 3
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa]()
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~gabrieam/JS-Moduulit/Moduuli%203/)
 
 Tehdyt tehtävät:
 
