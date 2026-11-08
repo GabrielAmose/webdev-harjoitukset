@@ -1,6 +1,4 @@
----
 # Ohjelmisto 2, webdev-harjoitukset
----
 
 ## HTML+CSS
 [Tehtävä 1 Yrityksen verkkosivusto HTML:llä ja CSS:llä: Tehty]()
@@ -8,8 +6,6 @@
 ---
 
 ## JS Moduulit
-
----
 
 ### JS-moduulit 1 ja 2
 
