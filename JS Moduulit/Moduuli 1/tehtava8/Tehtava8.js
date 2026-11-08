@@ -7,10 +7,10 @@ if (alkuvuosi < loppuvuosi){
     
     for (let x = alkuvuosi; x <= loppuvuosi; x++){
         if (x % 4 == 0 && x % 400 == 0){
-            text += x + "<br>";
+            text += "<li>" + x + "</li>";
         }
         else if (x % 4 == 0){
-            text += x + "<br>"
+            text += "<li>" + x + "</li>"
         }
     }
     document.getElementById("vuodet").innerHTML = text;
