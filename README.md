@@ -55,7 +55,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 4
 
-[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa]()
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~gabrieam/JS-Moduulit/Moduuli%204/)
 
 Tehdyt tehtävät:
 
