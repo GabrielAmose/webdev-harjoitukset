@@ -1,0 +1,2 @@
+document.getElementById("trigger").addEventListener("mouseover", function (evt) { document.getElementById("target").setAttribute("src", "img/picB.jpg") }); 
+document.getElementById("trigger").addEventListener("mouseout", function (evt) { document.getElementById("target").setAttribute("src", "img/picA.jpg") }); 

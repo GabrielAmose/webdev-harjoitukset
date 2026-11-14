@@ -50,3 +50,25 @@ Tehdyt tehtävät:
 - Tehtävä 10: 8 p
 
 **Yhteensä 27 p**
+
+---
+
+### JS-moduuli 4
+
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa]()
+
+Tehdyt tehtävät:
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 4: 2 p
+- Tehtävä 5: 5 p
+- Tehtävä 6: 1 p
+- Tehtävä 7: 2 p
+- Tehtävä 8: 4 p
+- Tehtävä 9: 4 p
+- Tehtävä 10: 2 p
+- Tehtävä 11: (kesken)
+
+**Yhteensä 26 p**
